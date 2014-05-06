@@ -1,0 +1,9 @@
+Introduction
+
+This script is used for transformer wikitext to TEI
+
+
+require package: mwparserfromhell
+http://mwparserfromhell.readthedocs.org/
+
+
